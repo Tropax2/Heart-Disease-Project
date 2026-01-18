@@ -1,0 +1,6 @@
+name,test score
+LDA,0.85
+LR,0.84
+QDA,0.8
+KNN,0.79
+NB,0.78
